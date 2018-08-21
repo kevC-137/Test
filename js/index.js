@@ -3,7 +3,9 @@
 
 //Varibles all posible
 let pushIt = document.querySelectorAll(".button, button, .no-shnazz");
+//Set true to making sure loop starts plays
 let useGradient = true;
+
 
     if (useGradient) {
       for (var i = 0; i < pushIt.length; i++) {
